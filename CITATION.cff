@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: Chung
+  given-names: In-Bum
+orcid: https://orcid.org/0009-0006-0641-6199
+title: synthetic power grid dataset
+version: release 1.0.0
+date-released: 2024-12-04
+                                
