@@ -1,4 +1,4 @@
-# Synthetic Power Grid Dataset for Data-driven Design
+# Synthetic Power Grid Dataset for Data-driven Design [![DOI](https://zenodo.org/badge/873313002.svg)](https://doi.org/10.5281/zenodo.14272556)
 This repository contains datasets for power transmission network.
 The datasets were created for the purpose of providing design engineers with realistic synthesize power grid for data-driven design of networks.
 The size of the datasets were determined so that they are enough for deep-learning applications. However, it is not strictly limited to this purpose.
