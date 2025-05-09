@@ -5,6 +5,8 @@ The size of the datasets were determined so that they are enough for deep-learni
 
 The publication corresponding to this repository contains an example case study on using a part of the datasets for generative design of transmission networks.
 
+Chung, I., and Wang, P. (February 27, 2025). "Dataset on Complex Power Systems: Design for Resilient Transmission Networks Using a Generative Model." ASME. J. Mech. Des. April 2025; 147(4): 041709. [Link to paper](https://doi.org/10.1115/1.4067745)
+
 ### Abstract of the paper
 <Sub>Interdependent critical infrastructures are prone to be a target of disruptions from either natural disasters or deliberate attacks that can cause a great magnitude of negative consequences on the system. To
 withstand and reduce the impacts of disruptive events, it is beneficial to consider them in the early stage of design to create a configuration that can maintain its performance as much as possible. However, due to the complexity of modern systems, it is difficult to optimize the large-scale system design with complicated constraints directly. To overcome this issue, it is advantageous to tackle the problem with a state-of-the-art data-driven approach. However, the problem arises due to the limited amount of data for power systems available to the public. Hence, synthesized power systems that resemble existing networks are collected and processed,
